@@ -9,9 +9,6 @@ public class Manusia {
         this.tubuh = tubuh;
         this.pikiran = pikiran;
     }
-    public Manusia(String namaku){
-        System.out.println("Hai, " + namaku);
-    }
 
     /**
      * get tubuh of an object manusia
