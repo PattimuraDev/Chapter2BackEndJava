@@ -1,8 +1,10 @@
+package com.pattimuradev.chapter2.model;
+
 public class Manusia {
     private String tubuh;
     private String pikiran;
 
-    public Manusia(){};
+    public Manusia(){}
     public Manusia(String tubuh, String pikiran){
         this.tubuh = tubuh;
         this.pikiran = pikiran;
