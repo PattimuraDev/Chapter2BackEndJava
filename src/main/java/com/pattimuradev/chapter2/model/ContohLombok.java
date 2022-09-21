@@ -11,4 +11,5 @@ public class ContohLombok {
     private String nama;
     private String alamat;
     private int umur;
+    private String noTelp;
 }
