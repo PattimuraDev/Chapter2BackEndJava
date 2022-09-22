@@ -1,4 +1,4 @@
-package com.pattimuradev.chapter2.oop;
+package com.pattimuradev.chapter2.topic4;
 
 public class MainInheritanceAbstractionEnum {
     public static void main(String[] args) {

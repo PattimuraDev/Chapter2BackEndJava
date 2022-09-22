@@ -1,4 +1,4 @@
-package com.pattimuradev.chapter2.oop;
+package com.pattimuradev.chapter2.topic4;
 
 // bisa diinstance, dapat memiliki field, method bisa abstract bisa juga non abstract
 public abstract class Motor {

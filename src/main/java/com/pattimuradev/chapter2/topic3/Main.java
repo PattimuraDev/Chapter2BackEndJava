@@ -1,7 +1,7 @@
-package com.pattimuradev.chapter2;
+package com.pattimuradev.chapter2.topic3;
 
-import com.pattimuradev.chapter2.model.Manusia;
-import com.pattimuradev.chapter2.model.Mobil;
+import com.pattimuradev.chapter2.topic3.model.Manusia;
+import com.pattimuradev.chapter2.topic3.model.Mobil;
 
 public class Main {
     public static void main(String[] args) {

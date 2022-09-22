@@ -1,4 +1,4 @@
-package com.pattimuradev.chapter2.oop;
+package com.pattimuradev.chapter2.topic4;
 
 public class StaticFinal {
     public void contohMethod(){

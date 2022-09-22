@@ -1,4 +1,4 @@
-package com.pattimuradev.chapter2.model;
+package com.pattimuradev.chapter2.topic3.model;
 
 public class Manusia {
     private String tubuh;

@@ -1,4 +1,4 @@
-package com.pattimuradev.chapter2.oop;
+package com.pattimuradev.chapter2.topic4;
 
 public abstract class Truk extends Kendaraan implements Mobil, GayaHidup{
 

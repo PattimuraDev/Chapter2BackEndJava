@@ -1,4 +1,4 @@
-package com.pattimuradev.chapter2.oop;
+package com.pattimuradev.chapter2.topic4;
 
 // interface semua methodnya abstract, tidak memiliki field, tidak bisa diinstance (kecuali final)
 public interface Mobil {

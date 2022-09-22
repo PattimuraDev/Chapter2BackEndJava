@@ -1,4 +1,4 @@
-package com.pattimuradev.chapter2.oop;
+package com.pattimuradev.chapter2.topic4;
 
 // kalau class diberi final, maka tidak bisa di turunkan lagi
 public class Jazz implements Mobil{
