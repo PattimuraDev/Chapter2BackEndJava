@@ -7,8 +7,8 @@ public class Tronton extends Truk{
     public Tronton(){
         isNyala = false; // mengubah value dari induk
         System.out.println("Tronton nyala: " + isNyala);
-        System.out.println("Jumlah roda" + jumlahRoda());
-        System.out.println("Berat " + berat());
+        System.out.println("Jumlah roda: " + jumlahRoda());
+        System.out.println("Berat: " + berat());
     }
 
     @Override

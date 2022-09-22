@@ -1,6 +1,6 @@
 package com.pattimuradev.chapter2.oop;
 
-public abstract class Truk extends Kendaraan{
+public abstract class Truk extends Kendaraan implements Mobil, GayaHidup{
 
     public Truk(){
         System.out.println("Truk nyala: " + isNyala);
@@ -32,5 +32,15 @@ public abstract class Truk extends Kendaraan{
     @Override
     public String merk() {
         return "Hino";
+    }
+
+    @Override
+    public void startMesin() {
+        System.out.println("Mesih truk di starter");
+    }
+
+    @Override
+    public String supir() {
+        return "Patra";
     }
 }

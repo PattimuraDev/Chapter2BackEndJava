@@ -1,5 +1,6 @@
 package com.pattimuradev.chapter2.oop;
 
+// kalau class diberi final, maka tidak bisa di turunkan lagi
 public class Jazz implements Mobil{
     @Override
     public void startMesin() {
